@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello world React Rails app</b></h3>
+  <h3><b>Hello world Backend app</b></h3>
 
 </div>
 
@@ -27,9 +27,8 @@
   - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
   - [📝 License ](#-license-)
 
-# 📖 Ruby on Rails - Hello world React Rails app <a name="about-project"></a>
-
-Set up a "Hello world" project as one app with Webpack. By now you've used many different gems with Rails and this exercise will have you connect previous knowledge with new knowledge as you get a chance to use Webpack with jsbundling-rails gem.
+# 📖 Ruby on Rails - Hello world Backend app <a name="about-project"></a> 
+**Hello world** is a full web project, split in two projects, the front-end and the back-end. This one is about the back-end project based on ruby on rails to generate an endpoint api.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,13 +55,9 @@ Set up a "Hello world" project as one app with Webpack. By now you've used many 
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- Display Greetings message
 - Display random greeting
-- Display random greeting with name
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,11 +76,11 @@ In order to run this project you need:
  
 Clone this repository to your desired folder:
 
-`git clone https://github.com/Abdulwhbhussain/hello-rails-react.git`
+`git clone git@github.com:MenendezON/hello-world-backend.git`
 
 then
 
-`cd hello-rails-react`
+`cd hello-world-backend`
 
 ### Install
 
