@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello world React Rails app</b></h3>
+  <h3><b>Hello world Backend app</b></h3>
 
 </div>
 
