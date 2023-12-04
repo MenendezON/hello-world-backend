@@ -28,7 +28,7 @@
   - [📝 License ](#-license-)
 
 # 📖 Ruby on Rails - Hello world Backend app <a name="about-project"></a> 
-**Hello world** is a full web project, split in two projects, the front-end and the back-end. This one is about the back-end project based on ruby on rails to generate an endpoint api.
+**Hello world** is a full web project, split in two projects, the <a href="https://github.com/MenendezON/hello-world-frontend">front-end</a> and the back-end. This one is about the back-end project based on ruby on rails to generate an endpoint api.
 
 ## 🛠 Built With <a name="built-with"></a>
 
