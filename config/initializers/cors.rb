@@ -7,11 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins 'http://127.0.0.1:3000' # Replace this with the domain you want to allow
-
-    resource '*',
-      headers: :any,
-      methods: [:get, :post, :put, :patch, :delete, :options, :head],
-      credentials: true
+    origins 'http://localhost:3000' # Update with your frontend URL
+    resource '/message/random_api', headers: :any, methods: [:get, :options]
   end
 end
